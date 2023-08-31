@@ -1,0 +1,2 @@
+project = "splendid-ground-394204"                                           ####### Create project and put Project ID #######
+credentials = "splendid-ground-394204-92ce023beb7a.json"                      ############# Create service accoutn with spectific role and use your own keys in json format #############
